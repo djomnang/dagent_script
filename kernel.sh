@@ -14,3 +14,5 @@ uname -r
 
 free -m
 iostat
+cat /pro/meminfo
+cat /proc/puinfo
