@@ -7,7 +7,10 @@ echo "you need root access"
 exit 1
 fi
 
-cpu
+
 lscpu
 lsblk
 uname -r
+
+free -m
+iostat
