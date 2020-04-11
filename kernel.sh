@@ -18,3 +18,5 @@ iostat
 ls
 sar -u
 arch
+cat /pro/meminfo
+cat /proc/puinfo
