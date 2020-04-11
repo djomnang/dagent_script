@@ -14,3 +14,7 @@ uname -r
 
 free -m
 iostat
+
+ls
+sar -u
+arch
